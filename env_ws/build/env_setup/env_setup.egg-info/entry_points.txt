@@ -1,0 +1,3 @@
+[console_scripts]
+intel_pub = env_setup.intel_pub:main
+intel_sub = env_setup.intel_sub:main

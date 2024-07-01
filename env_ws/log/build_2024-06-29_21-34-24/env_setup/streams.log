@@ -1,0 +1,30 @@
+[0.545s] Invoking command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup': PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build --no-deps symlink_data
+[0.767s] running develop
+[0.767s] /home/sukruthi/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.767s] !!
+[0.767s] 
+[0.767s]         ********************************************************************************
+[0.767s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.767s]         Instead, use pypa/build, pypa/installer or other
+[0.767s]         standards-based tools.
+[0.767s] 
+[0.767s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.768s]         ********************************************************************************
+[0.768s] 
+[0.768s] !!
+[0.768s]   easy_install.initialize_options(self)
+[0.914s] running egg_info
+[0.924s] writing env_setup.egg-info/PKG-INFO
+[0.924s] writing dependency_links to env_setup.egg-info/dependency_links.txt
+[0.924s] writing entry points to env_setup.egg-info/entry_points.txt
+[0.924s] writing requirements to env_setup.egg-info/requires.txt
+[0.924s] writing top-level names to env_setup.egg-info/top_level.txt
+[0.946s] reading manifest file 'env_setup.egg-info/SOURCES.txt'
+[0.946s] writing manifest file 'env_setup.egg-info/SOURCES.txt'
+[0.988s] running build_ext
+[0.988s] Creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env-setup.egg-link (link to .)
+[0.988s] Installing intel_pub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+[0.988s] 
+[0.988s] Installed /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup
+[0.988s] running symlink_data
+[1.008s] Invoked command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup' returned '0': PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build --no-deps symlink_data

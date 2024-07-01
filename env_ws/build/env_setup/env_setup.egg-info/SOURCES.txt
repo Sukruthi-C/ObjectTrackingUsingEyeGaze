@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/env_setup/env_setup.egg-info/PKG-INFO
+../../build/env_setup/env_setup.egg-info/SOURCES.txt
+../../build/env_setup/env_setup.egg-info/dependency_links.txt
+../../build/env_setup/env_setup.egg-info/entry_points.txt
+../../build/env_setup/env_setup.egg-info/requires.txt
+../../build/env_setup/env_setup.egg-info/top_level.txt
+../../build/env_setup/env_setup.egg-info/zip-safe
+env_setup/__init__.py
+env_setup/intel_pub.py
+env_setup/intel_sub.py
+resource/env_setup
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

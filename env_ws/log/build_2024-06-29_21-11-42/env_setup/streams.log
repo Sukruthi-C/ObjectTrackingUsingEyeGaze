@@ -1,0 +1,40 @@
+[0.581s] Invoking command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/src/env_setup': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/env_setup build --build-base /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build install --record /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log --single-version-externally-managed install_data
+[0.736s] running egg_info
+[0.736s] creating ../../build/env_setup/env_setup.egg-info
+[0.748s] writing ../../build/env_setup/env_setup.egg-info/PKG-INFO
+[0.748s] writing dependency_links to ../../build/env_setup/env_setup.egg-info/dependency_links.txt
+[0.748s] writing entry points to ../../build/env_setup/env_setup.egg-info/entry_points.txt
+[0.748s] writing requirements to ../../build/env_setup/env_setup.egg-info/requires.txt
+[0.748s] writing top-level names to ../../build/env_setup/env_setup.egg-info/top_level.txt
+[0.748s] writing manifest file '../../build/env_setup/env_setup.egg-info/SOURCES.txt'
+[0.771s] reading manifest file '../../build/env_setup/env_setup.egg-info/SOURCES.txt'
+[0.771s] writing manifest file '../../build/env_setup/env_setup.egg-info/SOURCES.txt'
+[0.771s] running build
+[0.771s] running build_py
+[0.771s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build
+[0.771s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib
+[0.771s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup
+[0.771s] copying env_setup/__init__.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup
+[0.771s] copying env_setup/intel_sub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup
+[0.771s] copying env_setup/intel_pub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup
+[0.771s] running install
+[0.775s] running install_lib
+[0.786s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup
+[0.786s] copying /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup/__init__.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup
+[0.786s] copying /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup/intel_sub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup
+[0.786s] copying /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup/intel_pub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup
+[0.786s] byte-compiling /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup/__init__.py to __init__.cpython-310.pyc
+[0.786s] byte-compiling /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup/intel_sub.py to intel_sub.cpython-310.pyc
+[0.786s] byte-compiling /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup/intel_pub.py to intel_pub.cpython-310.pyc
+[0.787s] running install_data
+[0.787s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/ament_index
+[0.787s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/ament_index/resource_index
+[0.787s] creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/ament_index/resource_index/packages
+[0.787s] copying resource/env_setup -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/ament_index/resource_index/packages
+[0.787s] copying package.xml -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/env_setup
+[0.787s] running install_egg_info
+[0.798s] Copying ../../build/env_setup/env_setup.egg-info to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup-0.0.0-py3.10.egg-info
+[0.798s] running install_scripts
+[0.903s] Installing intel_pub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+[0.903s] writing list of installed files to '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log'
+[0.920s] Invoked command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/src/env_setup' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/env_setup build --build-base /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build install --record /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log --single-version-externally-managed install_data

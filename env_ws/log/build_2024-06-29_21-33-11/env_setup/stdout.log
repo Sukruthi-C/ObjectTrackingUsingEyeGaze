@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing env_setup.egg-info/PKG-INFO
+writing dependency_links to env_setup.egg-info/dependency_links.txt
+writing entry points to env_setup.egg-info/entry_points.txt
+writing requirements to env_setup.egg-info/requires.txt
+writing top-level names to env_setup.egg-info/top_level.txt
+reading manifest file 'env_setup.egg-info/SOURCES.txt'
+writing manifest file 'env_setup.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env-setup.egg-link (link to .)
+Installing intel_pub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+
+Installed /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup
+running symlink_data
+symbolically linking /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/resource/env_setup -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/ament_index/resource_index/packages
+symbolically linking /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/package.xml -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/share/env_setup

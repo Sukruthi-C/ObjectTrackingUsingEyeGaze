@@ -1,0 +1,28 @@
+running develop
+/home/sukruthi/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+running egg_info
+writing env_setup.egg-info/PKG-INFO
+writing dependency_links to env_setup.egg-info/dependency_links.txt
+writing entry points to env_setup.egg-info/entry_points.txt
+writing requirements to env_setup.egg-info/requires.txt
+writing top-level names to env_setup.egg-info/top_level.txt
+reading manifest file 'env_setup.egg-info/SOURCES.txt'
+writing manifest file 'env_setup.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env-setup.egg-link (link to .)
+Installing intel_pub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+
+Installed /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup
+running symlink_data
