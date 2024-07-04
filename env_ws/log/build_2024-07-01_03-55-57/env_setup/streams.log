@@ -1,0 +1,25 @@
+[0.549s] Invoking command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/src/env_setup': PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/env_setup build --build-base /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build install --record /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log --single-version-externally-managed install_data
+[0.708s] running egg_info
+[0.719s] writing ../../build/env_setup/env_setup.egg-info/PKG-INFO
+[0.719s] writing dependency_links to ../../build/env_setup/env_setup.egg-info/dependency_links.txt
+[0.720s] writing entry points to ../../build/env_setup/env_setup.egg-info/entry_points.txt
+[0.720s] writing requirements to ../../build/env_setup/env_setup.egg-info/requires.txt
+[0.720s] writing top-level names to ../../build/env_setup/env_setup.egg-info/top_level.txt
+[0.742s] reading manifest file '../../build/env_setup/env_setup.egg-info/SOURCES.txt'
+[0.742s] writing manifest file '../../build/env_setup/env_setup.egg-info/SOURCES.txt'
+[0.742s] running build
+[0.742s] running build_py
+[0.742s] copying env_setup/intel_sub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup
+[0.742s] running install
+[0.746s] running install_lib
+[0.757s] copying /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build/lib/env_setup/intel_sub.py -> /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup
+[0.757s] byte-compiling /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup/intel_sub.py to intel_sub.cpython-310.pyc
+[0.758s] running install_data
+[0.758s] running install_egg_info
+[0.769s] removing '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup-0.0.0-py3.10.egg-info' (and everything under it)
+[0.769s] Copying ../../build/env_setup/env_setup.egg-info to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages/env_setup-0.0.0-py3.10.egg-info
+[0.770s] running install_scripts
+[0.877s] Installing intel_pub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+[0.877s] Installing intel_sub script to /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/env_setup
+[0.878s] writing list of installed files to '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log'
+[0.895s] Invoked command in '/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/src/env_setup' returned '0': PYTHONPATH=/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/install/env_setup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/env_setup build --build-base /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/build install --record /home/sukruthi/Desktop/Start-up/Developer/ObjectTrackingUsingEyeGaze/env_ws/build/env_setup/install.log --single-version-externally-managed install_data
